@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TermProject_PortfolioApp</string>
+
+    <string name="lorem_text">Hi. My name is Barış Tüzemen. I would like to tell you briefly about myself here. I am a senior student at Yaşar University, department of software engineering. My areas of interest are Machine learning, artificial intelligence and cyber security. In my spare time, I have always been interested in doing research and learning new things. I like computer games and animals. </string>
+    <string name="job_name">Software Engineer Student</string>
+    <string name="lorem_text2">C/C++ \n Java \n Python \n ASP.net </string>
+    <string name="name">Barış\nTüzemen</string>
+    <string name="my_skills">My Skills</string>
+    <string name="hobbies">I like to play games in my spare time. I am also interested in animals, especially with special types of aquarium fish. In this section, I will share them with you.</string>
+    <string name="hobbies_details">Here I would like to share with you my fish and shrimps that I have fed and have been feeding. Those you see in the top row have been with me for years. The fish you see in the middle row and in the lower row are the ones I like very much, which I gave last year because of my intensity.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
